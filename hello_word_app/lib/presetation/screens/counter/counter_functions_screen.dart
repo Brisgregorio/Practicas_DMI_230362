@@ -89,24 +89,24 @@ class _CounterFunctionsScreenState extends State<CounterFunctionsScreen> {
   children: [
     FloatingActionButton(
       heroTag: 'reset',
-      onPressed: () {
-        setState(() {
-          clickCounter = 0;
-        });
-      },
+      backgroundColor: Colors.pink.shade300,
+      foregroundColor: Colors.white,
+      onPressed: resetCounter,
       child: const Icon(Icons.refresh_rounded),
     ),
     const SizedBox(height: 10),
-
     FloatingActionButton(
       heroTag: 'increase',
+      backgroundColor: Colors.pink.shade300,
+      foregroundColor: Colors.white,
       onPressed: increaseCounter,
       child: const Text('+1'),
     ),
     const SizedBox(height: 10),
-
     FloatingActionButton(
       heroTag: 'decrease',
+      backgroundColor: Colors.pink.shade300,
+      foregroundColor: Colors.white,
       onPressed: decreaseCounter,
       child: const Text('-1'),
     ),
