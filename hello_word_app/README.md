@@ -62,4 +62,4 @@ El siguiente diagrama representa la estructura y la relación entre los principa
 
 ### Enlace al diagrama interactivo
 
-[Consultar la arquitectura de la aplicación](https://Brisgregorio/Practicas_DMI_230362/hello_word_app/architecture/hello_word_app.html)
+[Consultar la arquitectura de la aplicación](https://brisgregorio.github.io/Practicas_DMI_230362/hello_word_app/architecture/hello_word_app.html)
