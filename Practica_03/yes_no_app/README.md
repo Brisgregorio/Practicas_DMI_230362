@@ -104,7 +104,7 @@ El diagrama interactivo de la arquitectura se encuentra dentro de la carpeta `ar
 <table>
   <tr>
     <th>Interfaz principal</th>
-    <th>Respuesta de la aplicación</th>
+    <th>Evidencia de la aplicación (Icono)</th>
   </tr>
   <tr>
     <td align="center">
@@ -119,7 +119,7 @@ El diagrama interactivo de la arquitectura se encuentra dentro de la carpeta `ar
       El usuario escribe y envía una pregunta.
     </td>
     <td align="center">
-      La aplicación muestra una respuesta acompañada de un GIF.
+      Se muestra la evidencia del cambio de icono.
     </td>
   </tr>
 </table>
