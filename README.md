@@ -14,5 +14,5 @@ Este repositorio contiene las prácticas desarrolladas durante la asignatura de 
 |:---:|---|---|:---:|:---:|
 | 1 | Metodología de Evaluación de la Materia | Transcribir en la libreta y comprender la metodología y las fechas de evaluación de la asignatura. | 5 | ✅ Concluida |
 | 2 | Mi Primera Aplicación Móvil con Flutter | Codificar una aplicación móvil utilizando el framework Flutter. | 25 | ✅ Concluida |
-
+| 3 | Yes, No, Maybe	Chat Flutter con respuestas automáticas y GIFs mediante la API yesno.wtf. | 30 | ✅  Completada |
 ---
