@@ -88,8 +88,7 @@ El diagrama interactivo de la arquitectura se encuentra dentro de la carpeta `ar
 
 ### Abrir el diagrama desde GitHub Pages
 
-[Ver diagrama interactivo de Yes No App](https://brisgregorio.github.io/Practicas_DMI_230362/Practica_03/yes_no_app/architecture/yes_no_app.html)
-
+[Ver diagrama interactivo de Yes No App](https://brisgregorio.github.io/Practicas_DMI_230362/Practica_03/yes_no_app/architecture/yes-no-app-architecture.html)
 ### Consultar el archivo HTML en GitHub
 
 [Ver código fuente del diagrama](https://github.com/Brisgregorio/Practicas_DMI_230362/blob/main/Practica_03/yes_no_app/architecture/yes_no_app.html)
