@@ -97,21 +97,34 @@ El diagrama interactivo de la arquitectura se encuentra dentro de la carpeta `ar
 
 ---
 
+## Evidencias de funcionamiento
 
-## Evidencias
+<div align="center">
 
-### Evidencia 1: ejecución de la aplicación
+<table>
+  <tr>
+    <th>Interfaz principal</th>
+    <th>Respuesta de la aplicación</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/1.jpeg" width="320" alt="Interfaz principal de Yes No App">
+    </td>
+    <td align="center">
+      <img src="images/2.jpeg" width="320" alt="Respuesta generada por Yes No App">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      El usuario escribe y envía una pregunta.
+    </td>
+    <td align="center">
+      La aplicación muestra una respuesta acompañada de un GIF.
+    </td>
+  </tr>
+</table>
 
-En la siguiente imagen se muestra la interfaz principal de **Yes No App** funcionando correctamente:
-
-![Evidencia de ejecución de Yes No App](images/1.jpeg)
-
-### Evidencia 2: funcionamiento de la conversación
-
-En esta evidencia se observa la interacción del usuario con la aplicación y la respuesta acompañada de una imagen o GIF:
-
-![Evidencia del funcionamiento del chat](images/2.jpeg)
-
+</div>
 ---
 
 ## Repositorio
@@ -119,8 +132,6 @@ En esta evidencia se observa la interacción del usuario con la aplicación y la
 El código fuente y la documentación de la práctica se encuentran disponibles en GitHub:
 
 [Ver repositorio Practicas_DMI_230362](https://github.com/Brisgregorio/Practicas_DMI_230362)
-
-[Ver carpeta de la Práctica 03](https://github.com/Brisgregorio/Practicas_DMI_230362/tree/main/Practica_03/yes_no_app)
 
 ---
 
